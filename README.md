@@ -1,6 +1,7 @@
 # feederadicator
 Eradicate Facebook and Twitter news feeds in Safari through loading CSS.
 
+[<img src="https://raw.githubusercontent.com/jennieablog/feederadicator/master/fb-screenshot.png" width="500"/>](https://raw.githubusercontent.com/jennieablog/feederadicator/master/fb-screenshot.png) [<img src="https://raw.githubusercontent.com/jennieablog/feederadicator/master/twitter-screenshot.png" width="500"/>](https://raw.githubusercontent.com/jennieablog/feederadicator/master/twitter-screenshot.png)
 
 ## Instructions
 
@@ -10,4 +11,4 @@ Eradicate Facebook and Twitter news feeds in Safari through loading CSS.
 
 
 ### Credits
-Credits all go to https://github.com/maxfriedrich/quiet-facebook for their original implementation for Facebook.
+Thanks to https://github.com/maxfriedrich/quiet-facebook for their original implementation for Facebook.
