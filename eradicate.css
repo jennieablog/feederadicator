@@ -1,3 +1,4 @@
+/* Facebook  (extracted from https://github.com/maxfriedrich/quiet-facebook) */
 div[data-pagelet="Stories"], /* Stories list */
 div[data-pagelet="VideoChatHomeUnit"], /* Rooms/video chat list */
 div[role="feed"], /* News feed */
@@ -5,10 +6,9 @@ div[data-pagelet="RightRail"] > div:first-child > div:first-child /* Right rail'
 {
   display: none !important;
 }
-
-
+/* Twitter */
 div[data-testid="primaryColumn"] > div:first-child > div:nth-child(4), /* Twitter Timeline */
-div[data-testid="sidebarColumn"] /* Trends */
+div[data-testid="sidebarColumn"] /* Trends + Who to Follow */
 {
   display: none !important;
 }
