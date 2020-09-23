@@ -1,5 +1,5 @@
 # feederadicator
-Eradicate Facebook and Twitter news feeds in Safari through loading CSS.
+A CSS-only solution for eradicating both Twitter Time and Facebook News Feed in Safari.
 
 [<img src="https://raw.githubusercontent.com/jennieablog/feederadicator/master/fb-screenshot.png" width="500"/>](https://raw.githubusercontent.com/jennieablog/feederadicator/master/fb-screenshot.png) [<img src="https://raw.githubusercontent.com/jennieablog/feederadicator/master/twitter-screenshot.png" width="500"/>](https://raw.githubusercontent.com/jennieablog/feederadicator/master/twitter-screenshot.png)
 
